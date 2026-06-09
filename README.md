@@ -193,44 +193,6 @@ csxia-website/
 
 ---
 
-## 🚀 Quick Deploy
-
-### Option 1 — GitHub Pages (Recommended)
-
-```bash
-# 1. Clone or download this repo
-git clone https://github.com/YOUR_USERNAME/csxia-website.git
-
-# 2. Add your files
-# Place csxia-logo.png in root
-# Place team photos in /team folder
-
-# 3. Push to GitHub
-git add .
-git commit -m "🚀 Launch CSXIA website"
-git push origin main
-
-# 4. Enable GitHub Pages
-# Settings → Pages → Source: main branch → Save
-# Live at: https://YOUR_USERNAME.github.io/csxia-website
-```
-
-### Option 2 — Direct Open
-```bash
-# Just open index.html in any browser — no server needed
-open index.html
-```
-
-<br/>
-
----
-
-## 🌐 Connect With Us
-
-<div align="center">
-
-<br/>
-
 [![WhatsApp Community](https://img.shields.io/badge/WhatsApp-Join_the_Ecosystem-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HOgWg4Rk4nQHciLhMSTYVj)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@csxia__hyd-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/csxia_hyd?igsh=MXZzdGwyYm40eDVqNg==)
